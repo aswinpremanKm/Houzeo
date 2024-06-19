@@ -57,7 +57,7 @@
 import { ref } from 'vue';
 
 export default {
-  props: {
+  props: { 
     // Props definition if any
   },
   setup(props, { emit }) {
